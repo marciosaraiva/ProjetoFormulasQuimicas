@@ -1,0 +1,13 @@
+BASE_DADOS teste.db
+CRIAR_TABELAS
+CARREGAR compostos.txt
+CARREGAR compostos2.txt
+REPORT relatorio.txt
+LIST CH *
+LIST CH3 Alkane
+LIST CH2O *
+LIST CH2O Ester
+REPORT relatorio2.txt
+LIST C3H7 *
+LIST C4H9 *
+GRAFICO teste.png Alcohol

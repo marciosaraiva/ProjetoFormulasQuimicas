@@ -1,0 +1,17 @@
+18;Lysine;C6H14N2O2;311;Amine,Carboxylic acid
+19;Methane;CH4;-162;Alkane
+20;Methoxyethane;C3H8O;10.8;Ether
+21;Methyl Formate;C2H4O2;31.5;Ester
+22;Methylamine;CH5N;-6;Amine
+23;Nonane;C9H20;151;Alkane
+24;Octane;C8H18;126;Alkane
+25;Pentacontane;C50H102;575;Alkane
+26;Pentadecane;C15H32;270;Alkane
+27;Pentane;C5H12;36;Alkane
+28;Phenol;C6H6O;181.7;Alcohol,Aromatic
+29;Propanal;C3H6O;48.8;Aldehyde
+30;Propane;C3H8;-42;Alkane
+31;Propanol;C3H8O;82.4;Alcohol
+32;Tetracontane;C40H82;525;Alkane
+33;Triacontane;C30H62;450;Alkane
+34;Undecane;C11H24;196;Alkane

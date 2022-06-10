@@ -1,0 +1,17 @@
+1;Acetic Acid;C2H4O2;117.9;Carboxylic acid
+2;Acetone;C3H6O;56.2;Ketone
+3;Alanine;C3H7NO2;213;Amine,Carboxylic acid
+4;Aniline;C6H7N;184.1;Amine,Aromatic
+5;Benzene;C6H6;80.1;Aromatic
+6;Butane;C4H10;0;Alkane
+7;Decane;C10H22;174;Alkane
+8;Dodecane;C12H26;216;Alkane
+9;Ethane;C2H6;-89;Alkane
+10;Ethylene Glycol;C2H6O2;198;Alcohol
+11;Heptadecane;C17H36;303;Alkane
+12;Heptane;C7H16;98;Alkane
+13;Hexacontane;C60H122;625;Alkane
+14;Hexadecane;C16H34;287;Alkane
+15;Hexane;C6H14;69;Alkane
+16;Hydroxyacetone;C3H6O2;145.5;Alcohol,Ketone
+17;Icosane;C20H42;343;Alkane
